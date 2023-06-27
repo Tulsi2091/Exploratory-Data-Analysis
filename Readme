@@ -1,0 +1,7 @@
+Exploratory Data Analysis and Prediction using Abalone Dataset
+
+---> Preformed univariate and multivariate data analysis of different features of Abalone dataset.  
+
+---> Machine learning regression models were used to predict the age of abalone.  
+
+---> Machine learning classification models were used to classify the abalones into categories of young and old. 
